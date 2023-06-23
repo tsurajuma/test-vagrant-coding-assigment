@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T16:47:29 IST" name="Default suite" finished-at="2023-06-23T16:47:29 IST" duration-ms="172">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T16:47:29 IST" name="Default test" finished-at="2023-06-23T16:47:29 IST" duration-ms="172">
+      <class name="tests.RecentlyPlayedSongListTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.RecentlyPlayedSongListTest@4ddced80]" started-at="2023-06-23T16:47:29 IST" name="setUp" finished-at="2023-06-23T16:47:29 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPlaySong()[pri:1, instance:tests.RecentlyPlayedSongListTest@4ddced80]" started-at="2023-06-23T16:47:29 IST" name="testPlaySong" finished-at="2023-06-23T16:47:29 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlaySong -->
+        <test-method signature="testGetRecentlyPlayedSongsForNonExistingUser()[pri:2, instance:tests.RecentlyPlayedSongListTest@4ddced80]" started-at="2023-06-23T16:47:29 IST" name="testGetRecentlyPlayedSongsForNonExistingUser" finished-at="2023-06-23T16:47:29 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRecentlyPlayedSongsForNonExistingUser -->
+      </class> <!-- tests.RecentlyPlayedSongListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
